@@ -1,5 +1,15 @@
-# Vue 3 + TypeScript + Vite
+# BOIDS !!!
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Craig Reynolds' Artificial Life Algorithm
+Emergent Behavior is driven by:
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+- Separation    : steer to avoid crowded local flockmates
+- Alignment     : steer towards the average heading of local flockmates
+- Cohesion      : steer to move towards to average position of local flockmates (center of mass)
+
+## References
+
+1. https://dl.acm.org/doi/epdf/10.1145/37402.37406
+2. https://en.wikipedia.org/wiki/Boids
+
+
