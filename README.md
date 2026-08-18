@@ -22,5 +22,6 @@ Creating a vector Field which influences and is influenced by each boid should p
 7. [Particle Mesh Ewald]()
 8. [Particle In Cell]()
 9. [Nature of Code: Autonomous Agents](https://natureofcode.com/autonomous-agents/)
+10. [Fast Multipole Method](https://en.wikipedia.org/wiki/Fast_multipole_method)
 
 
