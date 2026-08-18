@@ -9,7 +9,8 @@ Emergent Behavior is driven by:
 
 ## References
 
-1. https://dl.acm.org/doi/epdf/10.1145/37402.37406
-2. https://en.wikipedia.org/wiki/Boids
+1. [original site by Craig Reynolds](https://www.red3d.com/cwr/boids/)
+2. https://dl.acm.org/doi/epdf/10.1145/37402.37406
+3. https://en.wikipedia.org/wiki/Boids
 
 
