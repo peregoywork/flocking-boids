@@ -1,7 +1,8 @@
 <script setup lang="ts">
-import Canvas from './components/Canvas.vue'
+import BoidVisual from './components/BoidVisual.vue'
+
 </script>
 
 <template>
-  <Canvas />
+  <BoidVisual />
 </template>
